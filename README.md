@@ -22,4 +22,4 @@ Base de datos desarrollada en PostgreSQL para gestionar libros, categorías, soc
 3. Verificar registros
 
 ## Autor
-Saraí Castaneda
+Saraí Esmeralda Castaneda
